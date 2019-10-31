@@ -9,5 +9,9 @@ Install :
 1. Django installation(pip install django)
 2. Install requirements.txt
 
+In order to.make this project work for Indian Accent, 
+we can use the facility of Python, i.e. is language="IN".
+so this makes the project compatible with Indian accent.
+
 
 
